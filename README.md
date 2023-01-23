@@ -14,4 +14,6 @@ My preferred colors to use in this class when it comes to writing source code wo
 - #ADD8E6 (Light Blue)
 - #90EE90 (Light Green)
 
+
+
 ![Computer Image](https://www.luc.edu/media/lucedu/engineering/Comp%20ENGR%20specialization%20page%20CROPPED.jpg)
