@@ -1,2 +1,2 @@
 # CPE322A, *Engineering Design VI*
-## **_Spring 2023_**
+## **Spring 2023**
