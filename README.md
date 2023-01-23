@@ -1,3 +1,2 @@
-# **CPE322A**
-<Engineering Design VI>
+# *CPE322A
 
