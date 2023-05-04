@@ -8,6 +8,8 @@ After studying Lesson 10, I gained a more in-depth analysis of how python is use
 
 ![Comparing Two Hash Values](https://github.com/dyassa123/CPE322A/blob/main/Lab%2010/Media/Comparing%20Two%20Hash%20Values.png)
 
+The hash values for Python differ by a significant amount, a shown above. The hash for an object of person is also different, however for the first iteration he hash for a tuple of vowels is poisitive whereas the other one is negative.
+
 ## Snakecoin
 
 ![Snakecoin](https://github.com/dyassa123/CPE322A/blob/main/Lab%2010/Media/Snakecoin.png)
@@ -27,10 +29,3 @@ After studying Lesson 10, I gained a more in-depth analysis of how python is use
 ![Python Blockchain App (2)](https://github.com/dyassa123/CPE322A/blob/main/Lab%2010/Media/Python%20Blockchain%20App(2).png)
 
 ![Python Blockchain App (3)](https://github.com/dyassa123/CPE322A/blob/main/Lab%2010/Media/Python%20Blockchain%20App(3).png)
-
-
-
-
-
-
-The hash values for Python differ by a significant amount, a shown above. The hash for an object of person is also different, however for the first iteration he hash for a tuple of vowels is poisitive whereas the other one is negative.
